@@ -1,0 +1,9 @@
+{
+  "name": "patterns",
+  "scripts": {
+    "test": "vitest"
+  },
+  "dependencies": {
+    "vitest": "^3.0.4"
+  }
+}
